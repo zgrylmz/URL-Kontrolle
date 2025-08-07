@@ -7,7 +7,7 @@ Zuerst kontrolliere ich die Eingabe mit Formik und Yup, um sicherzustellen, dass
 
 Sobald dieser Anfang vorhanden ist, könnt ihr beliebige Buchstaben eingeben. Die URL wird automatisch mit einer Mock-Funktion simuliert. Anschließend wird dem Nutzer angezeigt, ob die URL existiert oder nicht.
 
-Die vollständige Lösung findet ihr in meinem url-checker folder.
+Die vollständige Lösung findet ihr in meinem url-checker folder(**in der App.jsx Datei**).
 
 **Liebe Grüße :)**
 **Özgür**
